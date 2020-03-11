@@ -140,7 +140,7 @@ jQuery(document).ready(function($) {
   date: '03/11/2020 12:00:00',
   offset: +10
 }, function () {
-  alert('Choose Your Problem Statement');
+  alert('Select Your Problem Statement');
 });
 
 });
